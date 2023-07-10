@@ -17,27 +17,27 @@
 
 已归档（不再修改）：
 
-| 序号 | 曲名                          | 原艺术家          | 关联作品                                            | Midi | Muse Score 4 | 转录置信度 | 备注                                           |
-| ---- | ----------------------------- | ----------------- | --------------------------------------------------- | ---- | ------------ | ---------- | ---------------------------------------------- |
-| 1    | Remember Dreams               | VelecTi           | MOE Hypnotist (Game)                                |      |              | 1          |                                                |
-| 2    | A time for love               | BRIAN SHINSEKAI   | Hello World (Anime)                                 |      |              | 0.8        |                                                |
-| 3    | 直実告白、両想いに            | Official髭男dism  | Hello World (Anime)                                 |      |              | 0.8        |                                                |
-| 4    | 40 Seasons After              | 麋鹿音乐          | Vampires Melody (Game)                              |      |              | 1          |                                                |
-| 5    | 僕らの恋心                    | MANYO、麻枝准     | 神様になった日 (Anime)                              |      | 无           | 0.9        | 仅钢琴轨                                       |
-| 6    | Goodbye Seven Seas -piano ver | MANYO、麻枝准     | 神様になった日 (Anime)                              |      | 无           | 0.95       |                                                |
-| 7    | 天の光はすべて花              | Arte Refact       | 保健室のセンセーとシャボン玉中毒の助手 (Game)       |      | 无           | 0.8        |                                                |
-| 8    | さよならに涙はいらない        | Arte Refact       | 保健室のセンセーとシャボン玉中毒の助手 (Game)       |      |              | 1          | 仅钢琴轨，游戏中版本                           |
-| 9    | カレンデュラ piano ver        | 森田交一          | Fox Hime Zero (Game)                                |      |              | 1          |                                                |
-| 10   | アフレラ piano ver            | 森田交一          | Fox Hime Zero (Game)                                |      | 无           | 1          |                                                |
-| 11   | Impression of Starlight       | Jialong Duanmu    | Starlight of Aeons (Game)                           |      |              | 1          |                                                |
-| 12   | Memory                        | Jialong Duanmu    | Starlight of Aeons (Game)                           |      |              | 1          |                                                |
-| 13   | Past Regret in Spring         | Jialong Duanmu    | Starlight of Aeons (Game)                           |      |              | 1          |                                                |
-| 14   | Shooting Star                 | Jialong Duanmu    | Starlight of Aeons (Game)                           |      |              | 0.95       |                                                |
-| 15   | 恋爱绮谭                      | 兔老板AirS        | 恋爱绮谭 (Game)                                     |      |              | 0.95       |                                                |
-| 16   | 濡雪的少女                    | SaulRobinson      | 千面 (Game)                                         |      |              | 1          | midi包含完整版与游戏内版版本                   |
-| 17   | 昙花title bgm                 | REEKUM            | 昙花 (Game)                                         |      | 无           | 0.7        | 有一段重复与原曲不同，由于工程文件丢失不再更新 |
-| 18   | 輪廻 -Arrange-                | 忍                | さくら、もゆ (Game)                                 |      |              | 1          |                                                |
-| 19   | Door of silence               | HMR Entertainment | ゆまほろめ～時を停めた館で明日を探す迷子たち (Game) |      | 无           | 1          |                                                |
+| 序号 | 曲名                          | 原艺术家          | 关联作品                                            | Midi | Muse Score 4 | 转录置信度 | 备注                                                         |
+| ---- | ----------------------------- | ----------------- | --------------------------------------------------- | ---- | ------------ | ---------- | ------------------------------------------------------------ |
+| 1    | Remember Dreams               | VelecTi           | MOE Hypnotist (Game)                                |      |              | 1          |                                                              |
+| 2    | A time for love               | BRIAN SHINSEKAI   | Hello World (Anime)                                 |      |              | 0.8        |                                                              |
+| 3    | 直実告白、両想いに            | Official髭男dism  | Hello World (Anime)                                 |      |              | 0.8        |                                                              |
+| 4    | 40 Seasons After              | 麋鹿音乐          | Vampires Melody (Game)                              |      |              | 1          |                                                              |
+| 5    | 僕らの恋心                    | MANYO、麻枝准     | 神様になった日 (Anime)                              |      | 无           | 0.9        | 仅钢琴轨                                                     |
+| 6    | Goodbye Seven Seas -piano ver | MANYO、麻枝准     | 神様になった日 (Anime)                              |      | 无           | 0.95       |                                                              |
+| 7    | 天の光はすべて花              | Arte Refact       | 保健室のセンセーとシャボン玉中毒の助手 (Game)       |      | 无           | 0.8        |                                                              |
+| 8    | さよならに涙はいらない        | Arte Refact       | 保健室のセンセーとシャボン玉中毒の助手 (Game)       |      |              | 1          | 仅钢琴轨，游戏中版本                                         |
+| 9    | カレンデュラ piano ver        | 森田交一          | Fox Hime Zero (Game)                                |      |              | 1          | 乐谱为midi导入，未排版等处理。原曲部分位置可能无法演奏，演奏需求建议自行修改。 |
+| 10   | アフレラ piano ver            | 森田交一          | Fox Hime Zero (Game)                                |      |              | 1          | 同上                                                         |
+| 11   | Impression of Starlight       | Jialong Duanmu    | Starlight of Aeons (Game)                           |      |              | 1          |                                                              |
+| 12   | Memory                        | Jialong Duanmu    | Starlight of Aeons (Game)                           |      |              | 1          |                                                              |
+| 13   | Past Regret in Spring         | Jialong Duanmu    | Starlight of Aeons (Game)                           |      |              | 1          |                                                              |
+| 14   | Shooting Star                 | Jialong Duanmu    | Starlight of Aeons (Game)                           |      |              | 0.95       |                                                              |
+| 15   | 恋爱绮谭                      | 兔老板AirS        | 恋爱绮谭 (Game)                                     |      |              | 0.95       |                                                              |
+| 16   | 濡雪的少女                    | SaulRobinson      | 千面 (Game)                                         |      |              | 1          | midi包含完整版与游戏内版版本                                 |
+| 17   | 昙花title bgm                 | REEKUM            | 昙花 (Game)                                         |      | 无           | 0.7        | 有一段重复与原曲不同，由于工程文件丢失不再更新               |
+| 18   | 輪廻 -Arrange-                | 忍                | さくら、もゆ (Game)                                 |      |              | 1          |                                                              |
+| 19   | Door of silence               | HMR Entertainment | ゆまほろめ～時を停めた館で明日を探す迷子たち (Game) |      | 无           | 1          |                                                              |
 
 ## 改编工程
 
@@ -62,3 +62,14 @@
 
 ​	如果你认为我的记谱很糟糕，那暂时是没有办法的，我习惯使用DAW而很少打谱，未来会尝试改善，如果有需要使用建议自行下载工程文件修改。
 
+4. 提供的mscz文件如何打开或编辑？
+
+   本仓库中此类文件由Muse Score 4创建，你可以使用Muse Score 4及更新的版本打开及编辑。
+
+5. 乐器主要为钢琴的音乐，有少许改编，分类为？
+
+   依然归类为转录工程，如果有修改或仅钢琴轨，备注中会说明。
+
+6. 关于自由速度等音乐在转录时的对齐问题
+
+   我个人更偏向大致对齐，扒这类音乐更多是用于演奏，在midi中与原曲高度对齐工作量很大（我的处理方案是优先对齐和弦，优先在小节开始处添加Tempo变化，尽可能少的添加Tempo变化）。同样，备注中也会说明对齐程度。
